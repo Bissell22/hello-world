@@ -1,3 +1,3 @@
 # hello-world
 Basic coding exercise 
-first attempted branch WITHOUT tutorial
+wehn merged, should go from leaf to stick
