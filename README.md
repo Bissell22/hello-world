@@ -1,3 +1,3 @@
 # hello-world
 Basic coding exercise 
-should branch from stick
+wehn merged, should go from leaf to stick
